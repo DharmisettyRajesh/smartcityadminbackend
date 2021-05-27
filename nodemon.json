@@ -1,0 +1,10 @@
+{
+    "env":{
+        "DATABASEUSER":"Ramu",
+        "DATABASEPASSWORD":"Ramu123",
+        "DATABASENAME":"venu123",
+        "EMAIL":"dharmisettyrajesh009@gmail.com",
+        "PASSWORD":"Rajesh@523",
+        "JWT_KEY":"hghgtueifhjsdjhgjfhhg"
+    }
+}
